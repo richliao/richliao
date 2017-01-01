@@ -1,4 +1,7 @@
-# My reading list
+# My ultimate bookmark!
+
+##work environment setup##
+[Deep learning setup](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
 
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
