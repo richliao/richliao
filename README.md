@@ -34,5 +34,8 @@ Nice discussion and a collection of papers
 ##Talk and presentation##
 [Russ Salakhutdinov - Slides from my tutorial on Deep Unsupervised Learning](http://www.cs.cmu.edu/~rsalakhu/talk_unsup.pdf)
 
+[Iyan Goodfellow Nips workshop - GAN and Generative model](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
+
+
 ##Dataset##
 [Columbia big data link](http://www.ee.columbia.edu/~cylin/course/bigdata/getdatasetinfo.html)
