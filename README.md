@@ -17,6 +17,9 @@ Attentional LSTM Keras example - inherit from LSTM class
 [Google Net - Inception V1 by Joelouis Martino](http://joelouismarino.github.io/blog_posts/blog_googlenet_keras.html) 
 Moving from Caffe to Keras
 
+[GAN training hack](https://github.com/soumith/ganhacks)
+starter from "How to Train a GAN?" at NIPS2016
+
 ##Reddit/MachineLearning:##
 
 [why we need drop out](https://www.reddit.com/r/MachineLearning/comments/5l3f1c/d_what_happened_to_dropout/)
