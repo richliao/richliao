@@ -3,6 +3,8 @@
 ##work environment setup##
 [Deep learning setup](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
 
+[OpenCV setup for conda](http://stackoverflow.com/questions/23119413/how-to-install-python-opencv-through-conda)
+
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
 
@@ -19,6 +21,9 @@ Moving from Caffe to Keras
 
 [GAN training hack](https://github.com/soumith/ganhacks)
 starter from "How to Train a GAN?" at NIPS2016
+
+##Image processing##
+[open cv tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 
 ##Reddit/MachineLearning:##
 
