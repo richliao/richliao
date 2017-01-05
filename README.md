@@ -22,6 +22,13 @@ Moving from Caffe to Keras
 [GAN training hack](https://github.com/soumith/ganhacks)
 starter from "How to Train a GAN?" at NIPS2016
 
+Style transfer, super resolution, image sythesize
+[Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
+[Olave tensorflow implementation of neural style transfer](https://github.com/OlavHN/fast-neural-style)
+[Neural doodle by Alex Champandard](https://github.com/alexjc/neural-doodle)
+[Dimitry Ulayanov fast neural style and fast neural doogle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
+[lengsrom faste neural style transfer - tensorflow](https://github.com/lengstrom/fast-style-transfer) Our implementation is based off of a combination of Gatys' A Neural Algorithm of Artistic Style, Johnson's Perceptual Losses for Real-Time Style Transfer and Super-Resolution, and Ulyanov's Instance Normalization.
+
 ##Image processing##
 [open cv tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 
