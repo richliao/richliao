@@ -5,8 +5,12 @@
 
 [OpenCV setup for conda](http://stackoverflow.com/questions/23119413/how-to-install-python-opencv-through-conda)
 
+
+
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
+
+
 
 ##Blog:##
 
@@ -22,6 +26,7 @@ Moving from Caffe to Keras
 [GAN training hack](https://github.com/soumith/ganhacks)
 starter from "How to Train a GAN?" at NIPS2016
 
+
 Style transfer, super resolution, image sythesize
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
@@ -35,8 +40,13 @@ Style transfer, super resolution, image sythesize
 [lengsrom faste neural style transfer - tensorflow](https://github.com/lengstrom/fast-style-transfer) 
 Our implementation is based off of a combination of Gatys' A Neural Algorithm of Artistic Style, Johnson's Perceptual Losses for Real-Time Style Transfer and Super-Resolution, and Ulyanov's Instance Normalization.
 
+[torch implementation for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"](https://github.com/chuanli11/CNNMRF)
+
+
 ##Image processing##
 [open cv tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+
+
 
 ##Reddit/MachineLearning:##
 
@@ -44,10 +54,12 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 Nice discussion and a collection of papers
 
 
+
 ##Talk and presentation##
 [Russ Salakhutdinov - Slides from my tutorial on Deep Unsupervised Learning](http://www.cs.cmu.edu/~rsalakhu/talk_unsup.pdf)
 
 [Iyan Goodfellow Nips workshop - GAN and Generative model](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
+
 
 
 ##Dataset##
