@@ -12,7 +12,7 @@
 
 
 
-##Blog:##
+##General Blog Github##
 
 [character level Hierachical convolutional LSTM network implementation](https://offbit.github.io/how-to-read/)
 Hierachical Keras implementation 
@@ -27,7 +27,7 @@ Moving from Caffe to Keras
 starter from "How to Train a GAN?" at NIPS2016
 
 
-Style transfer, super resolution, image sythesize
+##Style transfer, super resolution, image sythesize##
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
 
@@ -41,6 +41,11 @@ Style transfer, super resolution, image sythesize
 Our implementation is based off of a combination of Gatys' A Neural Algorithm of Artistic Style, Johnson's Perceptual Losses for Real-Time Style Transfer and Super-Resolution, and Ulyanov's Instance Normalization.
 
 [torch implementation for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"](https://github.com/chuanli11/CNNMRF)
+
+
+##Chat bot##
+[Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
+
 
 
 ##Image processing##
