@@ -44,6 +44,10 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [MxNet implementation explained in blog](http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html) Contains github ipython notebook and further detail about implementation
 
+[Deconvolution checker board at Distill blog explanation in detail](http://distill.pub/2016/deconv-checkerboard/)
+
+[Titu's Implementation of "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" in Keras](https://github.com/titu1994/Fast-Neural-Style)
+
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
 
