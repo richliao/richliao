@@ -42,6 +42,7 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [torch implementation for paper "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis"](https://github.com/chuanli11/CNNMRF)
 
+[MxNet implementation explained in blog](http://dmlc.ml/mxnet/2016/06/20/end-to-end-neural-style.html) Contains github ipython notebook and further detail about implementation
 
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
