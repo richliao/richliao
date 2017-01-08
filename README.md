@@ -48,6 +48,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Titu's Implementation of "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" in Keras](https://github.com/titu1994/Fast-Neural-Style)
 
+[Chainer implementation of fast neural style transfer - very clean implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
+
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
 
