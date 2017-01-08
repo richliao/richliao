@@ -29,6 +29,8 @@ starter from "How to Train a GAN?" at NIPS2016
 
 ##Style transfer, super resolution, image sythesize##
 
+[Tensor talk collection - link Neural style transfer](https://tensortalk.com/?cat=neural-style-transfer)
+
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
 
 [Olave tensorflow implementation of neural style transfer](https://github.com/OlavHN/fast-neural-style)
