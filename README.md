@@ -29,6 +29,13 @@ starter from "How to Train a GAN?" at NIPS2016
 
 ##Style transfer, super resolution, image sythesize##
 
+Papers
+[The most famous Johnson's paper - Perceptual Losses for Real-Time Style Transfer
+and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf) The transformation network follows the paper 
+[DCGAN - UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434v2.pdf) 
+[Deep Residual Learning for Image Recognition - By Microsoft](https://arxiv.org/pdf/1512.03385v1.pdf)
+[Training and investigating residual nets - Torch blog ](http://torch.ch/blog/2016/02/04/resnets.html)
+
 [Tensor talk collection - link Neural style transfer](https://tensortalk.com/?cat=neural-style-transfer)
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
@@ -51,6 +58,10 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 [Titu's Implementation of "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" in Keras](https://github.com/titu1994/Fast-Neural-Style)
 
 [Chainer implementation of fast neural style transfer - very clean implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
+
+[Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs)
+
+[Chuan Li's code for Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://github.com/chuanli11/CNNMRF)
 
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
