@@ -71,11 +71,14 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Android end to end Neural style transfer - based on Johnson's lua code base](https://github.com/naman14/Arcade)
 
-Path based Markov Random Field
+Patch based Markov Random Field
 
 [Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs)
 
 [Chuan Li's code for Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://github.com/chuanli11/CNNMRF)
+
+[Fast patch based Neural style transfer - different optimization setup compared to feed forward style transfer](https://github.com/rtqichen/style-swap)
+
 
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
