@@ -69,6 +69,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Chainer implementation of fast neural style transfer - very clean implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
+[Android end to end Neural style transfer - based on Johnson's lua code base](https://github.com/naman14/Arcade)
+
 Path based Markov Random Field
 
 [Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs)
