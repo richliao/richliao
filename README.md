@@ -26,6 +26,8 @@ Moving from Caffe to Keras
 [GAN training hack](https://github.com/soumith/ganhacks)
 starter from "How to Train a GAN?" at NIPS2016
 
+[Alex Jung paper summary section](https://github.com/aleju/papers/tree/master/neural-nets)
+
 
 ##Style transfer, super resolution, image sythesize##
 
@@ -73,11 +75,13 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 Patch based Markov Random Field
 
-[Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs)
+[Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs) Note is [here](https://github.com/aleju/papers/blob/master/neural-nets/Markovian_GANs.md)
 
-[Chuan Li's code for Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://github.com/chuanli11/CNNMRF)
+[Chuan Li's code for Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://github.com/chuanli11/CNNMRF) Note is [here](https://github.com/aleju/papers/blob/master/neural-nets/Combining_MRFs_and_CNNs_for_Image_Synthesis.md)
 
 [Fast patch based Neural style transfer - different optimization setup compared to feed forward style transfer](https://github.com/rtqichen/style-swap)
+
+[Generate image analogies using neural matching and blending](https://github.com/awentzonline/image-analogies)
 
 
 ##Chat bot##
