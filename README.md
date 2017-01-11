@@ -30,7 +30,7 @@ starter from "How to Train a GAN?" at NIPS2016
 
 
 ##Style transfer, super resolution, image sythesize##
-
+[spin off the link here](https://github.com/richliao/richliao/blob/master/image_synthesis.md)
 
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
