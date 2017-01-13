@@ -40,6 +40,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Chainer implementation of fast neural style transfer - very clean implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
+[Depth preserved style transfer](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
+
 [Android end to end Neural style transfer - based on Johnson's lua code base](https://github.com/naman14/Arcade)
 
 Patch based Markov Random Field
