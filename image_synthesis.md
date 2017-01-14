@@ -1,6 +1,6 @@
 ##Style transfer, super resolution, image sythesize##
 
-Papers
+##Papers##
 
 [The most famous Johnson's paper - Perceptual Losses for Real-Time Style Transfer
 and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf) The transformation network follows the paper 
@@ -11,19 +11,19 @@ and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/Johnso
 
 [Training and investigating residual nets - Torch blog ](http://torch.ch/blog/2016/02/04/resnets.html)
 
-Lecture Note
+##Lecture Note##
 
 [Tensor talk collection - link Neural style transfer](https://tensortalk.com/?cat=neural-style-transfer)
 
 [Very good MIT lecture note covers GoogleNet, ResNet](http://6.869.csail.mit.edu/fa16/lecture/6.869-Lecture19-DeepLearning.pdf)
 
-GitHub implementation
+##GitHub implementation##
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
 
 [Olave tensorflow implementation of neural style transfer - very clean Residual Net implementation](https://github.com/OlavHN/fast-neural-style)
 
-[Neural doodle by Alex Champandard](https://github.com/alexjc/neural-doodle)
+[Neural doodle by Alex Champandard](https://github.com/alexjc/neural-doodle) [Paper](https://arxiv.org/pdf/1603.01768.pdf)
 
 [Dimitry Ulayanov fast neural style and fast neural doogle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
 
@@ -44,7 +44,7 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Android end to end Neural style transfer - based on Johnson's lua code base](https://github.com/naman14/Arcade)
 
-Patch based Markov Random Field
+##Patch based Markov Random Field##
 
 [Chuan Li's code for Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://github.com/chuanli11/MGANs) Note is [here](https://github.com/aleju/papers/blob/master/neural-nets/Markovian_GANs.md)
 
@@ -52,7 +52,8 @@ Patch based Markov Random Field
 
 [Fast patch based Neural style transfer - different optimization setup compared to feed forward style transfer](https://github.com/rtqichen/style-swap)
 
-[Generate image analogies using neural matching and blending](https://github.com/awentzonline/image-analogies)
+[Image Analogies - Generate image analogies using neural matching and blending](https://github.com/awentzonline/image-analogies)
 
-Cross Domain image generation
+##Cross Domain image generation##
+
 [Domain Transfer Network. TensorFlow implementation of [Unsupervised Cross-Domain Image Generation]](https://github.com/yunjey/dtn-tensorflow)
