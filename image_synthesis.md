@@ -17,6 +17,8 @@ and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/Johnso
 
 [Very good MIT lecture note covers GoogleNet, ResNet](http://6.869.csail.mit.edu/fa16/lecture/6.869-Lecture19-DeepLearning.pdf)
 
+[Markov Random field Lecture note - Wei Liu](http://www.sci.utah.edu/~weiliu/talk/mrf_class.pdf)
+
 ##GitHub implementation##
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
@@ -53,8 +55,6 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 [Fast patch based Neural style transfer - different optimization setup compared to feed forward style transfer](https://github.com/rtqichen/style-swap)
 
 [Image Analogies - Generate image analogies using neural matching and blending](https://github.com/awentzonline/image-analogies)
-
-[Markov Random field Lecture note - Wei Liu](http://www.sci.utah.edu/~weiliu/talk/mrf_class.pdf)
 
 
 ##Cross Domain image generation##
