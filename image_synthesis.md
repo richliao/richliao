@@ -54,6 +54,9 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Image Analogies - Generate image analogies using neural matching and blending](https://github.com/awentzonline/image-analogies)
 
+[Markov Random field Lecture note - Wei Liu](http://www.sci.utah.edu/~weiliu/talk/mrf_class.pdf)
+
+
 ##Cross Domain image generation##
 
 [Domain Transfer Network. TensorFlow implementation of [Unsupervised Cross-Domain Image Generation]](https://github.com/yunjey/dtn-tensorflow)
