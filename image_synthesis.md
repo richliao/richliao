@@ -40,6 +40,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Titu's Implementation of "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" in Keras](https://github.com/titu1994/Fast-Neural-Style)
 
+[Another Keras implementation](https://github.com/kevinzakka/style_transfer)
+
 [Chainer implementation of fast neural style transfer - very clean implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
 [Depth preserved style transfer](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
