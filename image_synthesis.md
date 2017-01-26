@@ -62,3 +62,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 ##Cross Domain image generation##
 
 [Domain Transfer Network. TensorFlow implementation of [Unsupervised Cross-Domain Image Generation]](https://github.com/yunjey/dtn-tensorflow)
+
+##Face##
+[Github: face morpher using opencv and Stam](https://github.com/alyssaq/face_morpher)
+
+[LearnOpenCV - tons of examples](http://www.learnopencv.com/)
