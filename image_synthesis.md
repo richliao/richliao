@@ -67,3 +67,5 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 [Github: face morpher using opencv and Stam](https://github.com/alyssaq/face_morpher)
 
 [LearnOpenCV - tons of examples](http://www.learnopencv.com/)
+
+[open face - Brandom Amos](https://bamos.github.io/2016/01/19/openface-0.2.0/)
