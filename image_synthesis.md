@@ -68,4 +68,6 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [LearnOpenCV - tons of examples](http://www.learnopencv.com/)
 
+[LearnOpenCV github sources](https://github.com/spmallick/learnopencv)
+
 [open face - Brandom Amos](https://bamos.github.io/2016/01/19/openface-0.2.0/)
