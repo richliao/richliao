@@ -71,3 +71,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 [LearnOpenCV github sources](https://github.com/spmallick/learnopencv)
 
 [open face - Brandom Amos](https://bamos.github.io/2016/01/19/openface-0.2.0/)
+
+[Face AR - openface IOS](https://github.com/FaceAR/OpenFaceIOS)
+
+[Open face - Tadas Baltrusaitis](https://github.com/TadasBaltrusaitis/OpenFace)
+
