@@ -65,6 +65,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Conditonal GAN - generation of face](https://github.com/david-gpu/deep-makeover)
 
+[pix2pix - image to image translation github tutorial](http://affinelayer.com/pix2pix/index.html)
+
 ##Face##
 [Github: face morpher using opencv and Stam](https://github.com/alyssaq/face_morpher)
 
