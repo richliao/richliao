@@ -19,7 +19,7 @@ and Super-Resolution](http://cs.stanford.edu/people/jcjohns/papers/eccv16/Johnso
 
 [Markov Random field Lecture note - Wei Liu](http://www.sci.utah.edu/~weiliu/talk/mrf_class.pdf)
 
-##GitHub implementation##
+##Style transfer implementation##
 
 [Johnson's neural style transfer - fast approach - use lua](https://github.com/jcjohnson/fast-neural-style)
 
@@ -62,6 +62,8 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 ##Cross Domain image generation##
 
 [Domain Transfer Network. TensorFlow implementation of [Unsupervised Cross-Domain Image Generation]](https://github.com/yunjey/dtn-tensorflow)
+
+[Conditonal GAN - generation of face](https://github.com/david-gpu/deep-makeover)
 
 ##Face##
 [Github: face morpher using opencv and Stam](https://github.com/alyssaq/face_morpher)
