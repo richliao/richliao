@@ -3,6 +3,8 @@
 ##work environment setup##
 [Deep learning setup](http://efavdb.com/deep-learning-with-jupyter-on-aws/)
 
+[latest AMI - Nov 2016](https://github.com/Miej/GoDeeper)
+
 [OpenCV setup for conda](http://stackoverflow.com/questions/23119413/how-to-install-python-opencv-through-conda)
 
 
