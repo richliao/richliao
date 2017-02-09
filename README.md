@@ -9,6 +9,11 @@
 
 [tensorflow installation with cuda 8](http://expressionflow.com/2016/10/09/installing-tensorflow-on-an-aws-ec2-p2-gpu-instance/)
 
+[floydhub - deep learning setup](https://github.com/floydhub/dl-setup)
+
+[Deep learning hardware setup plus Raspi Pi](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
+
+
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
 
