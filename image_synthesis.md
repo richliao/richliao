@@ -80,3 +80,4 @@ Our implementation is based off of a combination of Gatys' A Neural Algorithm of
 
 [Open face - Tadas Baltrusaitis](https://github.com/TadasBaltrusaitis/OpenFace)
 
+[MTCNN Mnxet python implementation](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
