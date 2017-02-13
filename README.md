@@ -35,6 +35,8 @@ starter from "How to Train a GAN?" at NIPS2016
 
 [Alex Jung paper summary section](https://github.com/aleju/papers/tree/master/neural-nets)
 
+[Great general blog covers PyTorch, Conditional  VAE, Wesserstein VAE](http://wiseodd.github.io/)
+
 
 ##Style transfer, super resolution, image sythesize##
 [spin off the link here](https://github.com/richliao/richliao/blob/master/image_synthesis.md)
