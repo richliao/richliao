@@ -34,8 +34,8 @@ parser.add_argument("--aspect_ratio", type=float, default=1.0, help="aspect rati
 parser.add_argument("--lab_colorization", action="store_true", help="split A image into brightness (A) and color (B), ignore B image")
 parser.add_argument("--batch_size", type=int, default=1, help="number of images in batch")
 parser.add_argument("--which_direction", type=str, default="AtoB", choices=["AtoB", "BtoA"])
-parser.add_argument("--ngf", type=int, default=64, help="number of generator filters in first conv layer")
-parser.add_argument("--ndf", type=int, default=64, help="number of discriminator filters in first conv layer")
+parser.add_argument("--ngf", type=int, default=16, help="number of generator filters in first conv layer")
+parser.add_argument("--ndf", type=int, default=16, help="number of discriminator filters in first conv layer")
 parser.add_argument("--scale_size", type=int, default=64, help="scale images to this size before cropping to 256x256")
 parser.add_argument("--flip", dest="flip", action="store_true", help="flip images horizontally")
 parser.add_argument("--no_flip", dest="flip", action="store_false", help="don't flip images horizontally")
@@ -324,10 +324,10 @@ def create_model(inputs, targets):
             (a.ngf * 8, 0.5),   # decoder_8: [batch, 1, 1, ngf * 8] => [batch, 2, 2, ngf * 8 * 2]
             (a.ngf * 8, 0.5),   # decoder_7: [batch, 2, 2, ngf * 8 * 2] => [batch, 4, 4, ngf * 8 * 2]
             (a.ngf * 8, 0.5),   # decoder_6: [batch, 4, 4, ngf * 8 * 2] => [batch, 8, 8, ngf * 8 * 2]
-            (a.ngf * 8, 0.0),   # decoder_5: [batch, 8, 8, ngf * 8 * 2] => [batch, 16, 16, ngf * 8 * 2]
-            (a.ngf * 4, 0.0),   # decoder_4: [batch, 16, 16, ngf * 8 * 2] => [batch, 32, 32, ngf * 4 * 2]
-            (a.ngf * 2, 0.0),   # decoder_3: [batch, 32, 32, ngf * 4 * 2] => [batch, 64, 64, ngf * 2 * 2]
-            (a.ngf, 0.0),       # decoder_2: [batch, 64, 64, ngf * 2 * 2] => [batch, 128, 128, ngf * 2]
+            (a.ngf * 4, 0.0),   # decoder_5: [batch, 8, 8, ngf * 8 * 2] => [batch, 16, 16, ngf * 8 * 2]
+            (a.ngf * 2, 0.0),   # decoder_4: [batch, 16, 16, ngf * 8 * 2] => [batch, 32, 32, ngf * 4 * 2]
+            #(a.ngf * 2, 0.0),   # decoder_3: [batch, 32, 32, ngf * 4 * 2] => [batch, 64, 64, ngf * 2 * 2]
+            #(a.ngf, 0.0),       # decoder_2: [batch, 64, 64, ngf * 2 * 2] => [batch, 128, 128, ngf * 2]
         ]
 
         num_encoder_layers = len(layers)
@@ -362,7 +362,7 @@ def create_model(inputs, targets):
         return layers[-1]
 
     def create_discriminator(discrim_inputs, discrim_targets):
-        n_layers = 3
+        n_layers = 1
         layers = []
 
         # 2x [batch, height, width, in_channels] => [batch, height, width, in_channels * 2]
