@@ -41,8 +41,13 @@ starter from "How to Train a GAN?" at NIPS2016
 ##Style transfer, super resolution, image sythesize##
 [spin off the link here](https://github.com/richliao/richliao/blob/master/image_synthesis.md)
 
-##Visual Search##
+##Image fashion Search##
 [Inception based Visual search by AKSHAYUBHAT](https://github.com/AKSHAYUBHAT/VisualSearchServer)
+
+[deep fashion landmark detection](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+
+[TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
+
 
 ##Chat bot##
 [Chat blot pretrained with Reddit responses - tensorflow based](https://github.com/pender/chatbot-rnn)
