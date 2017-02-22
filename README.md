@@ -18,6 +18,8 @@
 [fixing model not found, libcaffe.so etc problem](https://github.com/BVLC/caffe/issues/263)
 [path setup](https://github.com/BVLC/caffe/issues/2720)
 
+[another one](https://github.com/BVLC/caffe/issues/782)
+
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
 
