@@ -13,6 +13,10 @@
 
 [Deep learning hardware setup plus Raspi Pi](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
 
+## Caffe setup in Mac - hard ##
+[general](http://www.megastormsystems.com/news/how-to-install-caffe-on-mac-os-x-10-11)
+[fixing model not found, libcaffe.so etc problem](https://github.com/BVLC/caffe/issues/263)
+[path setup](https://github.com/BVLC/caffe/issues/2720)
 
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
