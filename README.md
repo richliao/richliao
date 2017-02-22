@@ -20,6 +20,8 @@
 
 [another one](https://github.com/BVLC/caffe/issues/782)
 
+[this seems good](https://cvdreamer.wordpress.com/2016/04/08/install-caffe-on-mac-with-el-capitan/)
+
 ##Papers##
 [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth](http://robotvault.bitbucket.org/scenenet-rgbd.html)
 
